@@ -1,0 +1,21 @@
+.user {
+    margin: 1rem;
+    padding: 1rem;
+    background-color:seagreen;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 12px;
+    text-align: center;
+    color:white;
+  }
+  
+  .user h2 {
+    font-size: 2rem;
+    color:black;
+  }
+  
+  .user h3 {
+    color:black;
+    margin: 0;
+    font-size: 1rem;
+  }
+  
